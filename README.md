@@ -1,9 +1,13 @@
 # Tomi-Alaofin
 
-👷Major in electrical and computer engineering
+👋 The name's Tomi Alaofin
 
-Yearning to be a full-stack developer.
+💻Major in electrical and computer engineering
 
-I'm also in search of a project collab😁	
+👀 Currently Yearning to be a Full Stack developer
 
-You can reach out to me on twitter
+🌱 I’m currently learning Tailwind css & React
+
+🤝 Interested in collaborating on Opensource projects
+
+📌 You can reach me on LinkedIn/Twitter
