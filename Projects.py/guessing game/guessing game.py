@@ -1,3 +1,4 @@
+#this program is a number-guessing game. It will ask the user for their name and ask them to guess a number between 1 and 20. The participant will have a total of 7 attempts
 import random
 import sys
 number = random.randint(1, 20)
