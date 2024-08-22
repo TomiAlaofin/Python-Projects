@@ -4,7 +4,7 @@
 
 💻Major in electrical and computer engineering
 
-👀 Currently Yearning to be a Full Stack developer
+👀 Full Stack developer and Knowledgeable in ML
 
 🌱 I’m currently learning Tailwind css & React
 
